@@ -1,0 +1,22 @@
+.text-center {
+    text-align: center;
+}
+
+.pad-1 {
+    padding: 1rem;
+}
+
+.font-mono {
+    font-family: monospace;
+}
+
+.hidden-input {
+    border: 0;
+    background-color: transparent;
+    font-size: 14px;
+    font-family: Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+.overflow-auto {
+    overflow: auto;
+}
